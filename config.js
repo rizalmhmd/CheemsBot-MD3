@@ -42,22 +42,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['6281333154367'] //ur owner number
-global.ownername = "Zall"
+global.ownername = "𝚉𝚊𝚕𝚕"
 global.ytname = "YT: gada" //ur yt chanel name
 global.socialm = "GitHub: rizalmhmd" //ur github or insta name
-global.location = "Indonesia" //ur location
+global.location = "𝙹𝚊𝚠𝚊 𝚃𝚎𝚗𝚐𝚊𝚑" //ur location
 
 //bot bombdy
-global.botname = "ROZZxBOTZ" //ur bot name
+global.botname = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" //ur bot name
 global.websitex = "https://github.com/rizalmhmd" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.author = "𝚉𝚊𝚕𝚕"
+global.themeemoji = "🐦"
+global.reactmoji = "🗿"
 global.ownertag = ['6281333154367'] //ur owner tag
 global.ownernummenu = ['6281333154367'] //ur owner number in menu and all
-global.watermark = "ROZZxBOTZ" //ur watermark
+global.watermark = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" //ur watermark
 global.botscript = "https://github.com/rizalmhmd"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"

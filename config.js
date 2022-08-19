@@ -25,8 +25,8 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -51,10 +51,10 @@ global.location = "𝙹𝚊𝚠𝚊 𝚃𝚎𝚗𝚐𝚊𝚑" //ur location
 global.botname = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" //ur bot name
 global.websitex = "https://github.com/rizalmhmd" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕"
 global.author = "𝚉𝚊𝚕𝚕"
 global.themeemoji = "🐦"
-global.reactmoji = "⏲"
+global.reactmoji = ⏱"
 global.ownertag = ['6281333154367'] //ur owner tag
 global.ownernummenu = ['6281333154367'] //ur owner number in menu and all
 global.watermark = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" //ur watermark
